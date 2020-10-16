@@ -1,5 +1,7 @@
 # conversor_de_moedas
 
+Aplicativo desenvolvido em dart (flutter), de nível básico, para converter de moedas, consumindo a API da HGBrasil, atualizando os dados de acordo com a taxa de câmbio. Este aplicativo faz parte do curso da Udemy. 
+
 A new Flutter application.
 
 ## Getting Started
